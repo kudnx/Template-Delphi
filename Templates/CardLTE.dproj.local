@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021/04/21 14:56:50.780,=rtl.dcp</Transaction>
+    <Transaction>2021/04/21 14:57:13.633,C:\Users\zluan\Documents\Embarcadero\Studio\Projects\CardLTE.dproj=C:\Users\zluan\Documents\Embarcadero\Studio\Projects\Package1.dproj</Transaction>
+    <Transaction>2021/04/21 14:58:50.938,=C:\Users\zluan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/21 15:01:49.194,C:\Users\zluan\Documents\Projetos\Delphi\Templates\Template1.pas=C:\Users\zluan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/21 15:01:49.194,C:\Users\zluan\Documents\Projetos\Delphi\Templates\Template1.dfm=C:\Users\zluan\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/04/21 15:01:59.617,C:\Users\zluan\Documents\Projetos\Delphi\Templates\CardLTE.dproj=C:\Users\zluan\Documents\Embarcadero\Studio\Projects\CardLTE.dproj</Transaction>
+    <Transaction>2021/04/21 15:38:58.598,=vclx.dcp</Transaction>
+    <Transaction>2021/04/21 15:38:58.605,=vcl.dcp</Transaction>
+    <Transaction>2021/04/21 15:38:58.610,=vclimg.dcp</Transaction>
+    <Transaction>2021/04/21 15:38:58.613,=acntDX10Berlin_R.dcp</Transaction>
+  </Transactions>
+</BorlandProject>
